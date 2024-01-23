@@ -110,7 +110,10 @@ do
         case "1":
 
             // List all of our current pet information
-           
+           for ()
+           {
+            
+           }
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
 
